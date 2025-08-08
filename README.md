@@ -26,10 +26,6 @@ pip install python-binance
 Run the bot:
 
 bash
-Copy
-Edit
-python trading_bot.py
-Make sure you replace trading_bot.py with the actual filename.
 
 🔑 Binance Testnet API Keys
 To use this bot, you need Binance Futures Testnet API keys:
